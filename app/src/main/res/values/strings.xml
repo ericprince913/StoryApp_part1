@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BPAAI_submission1</string>
+    <string name="wordlogin">Masuk Sekarang</string>
+    <string name="wordregister">Daftar Sekarang</string>
+    <string name="success">Berhasil diunggah</string>
+    <string name="fail">Gagal Diunggah</string>
+</resources>
